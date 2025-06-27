@@ -14,9 +14,6 @@ venv/
 # Ignore personal Jupyter configuration files
 .jupyter/
 
-# Ignore generated results
-output/
-
 # Skip raw dataset CSV files
 *.csv
 
