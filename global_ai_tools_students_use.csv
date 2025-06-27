@@ -1,0 +1,501 @@
+,student_id,age,gender,country,grade,uses_ai_for_study,uses_chatgpt,uses_gemini,uses_grammarly,uses_quillbot,uses_notion_ai,uses_phind,uses_edu_chat,uses_other,usefulness_chatgpt,usefulness_gemini,usefulness_grammarly,usefulness_quillbot,usefulness_notion_ai,usefulness_phind,usefulness_edu_chat,usefulness_other
+0,S0001,17,Female,India,12th,True,False,False,False,False,True,False,False,True,,,,,6.0,,,6.0
+1,S0002,18,Female,Canada,10th,True,False,True,False,True,False,False,False,False,,9.0,,10.0,,,,
+2,S0003,16,Male,UK,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+3,S0004,18,Female,UK,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+4,S0005,18,Male,USA,11th,True,False,False,True,False,False,False,True,False,,,10.0,,,,8.0,
+5,S0006,15,Male,Australia,11th,True,False,False,False,False,False,True,False,False,,,,,,7.0,,
+6,S0007,16,Non-binary,Canada,11th,True,False,False,False,False,False,False,False,False,,,,,,,,
+7,S0008,16,Male,Japan,11th,True,False,True,False,True,True,True,False,False,,7.0,,6.0,10.0,6.0,,
+8,S0009,16,Male,UK,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+9,S0010,18,Non-binary,India,12th,True,True,False,True,False,False,False,False,False,8.0,,6.0,,,,,
+10,S0011,17,Non-binary,Brazil,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+11,S0012,16,Female,Brazil,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+12,S0013,18,Female,Canada,10th,True,True,False,True,False,False,True,False,True,10.0,,9.0,,,8.0,,6.0
+13,S0014,15,Male,Australia,10th,True,False,True,False,False,False,False,False,False,,10.0,,,,,,
+14,S0015,17,Male,Australia,10th,True,True,False,True,False,False,False,False,False,9.0,,8.0,,,,,
+15,S0016,15,Male,Germany,10th,True,False,False,False,True,True,False,False,False,,,,7.0,9.0,,,
+16,S0017,17,Female,Nigeria,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+17,S0018,18,Female,UK,11th,True,False,False,False,False,False,False,False,False,,,,,,,,
+18,S0019,14,Female,Australia,11th,True,False,False,True,True,True,True,True,True,,,6.0,7.0,10.0,6.0,6.0,7.0
+19,S0020,17,Female,India,9th,True,True,False,False,True,True,False,True,False,9.0,,,8.0,10.0,,7.0,
+20,S0021,15,Male,Canada,12th,True,False,False,False,False,False,False,True,False,,,,,,,10.0,
+21,S0022,18,Female,Japan,10th,True,False,True,False,False,False,True,False,False,,9.0,,,,8.0,,
+22,S0023,17,Male,Germany,10th,True,True,False,False,True,False,False,True,False,8.0,,,8.0,,,10.0,
+23,S0024,14,Female,South Korea,11th,True,False,False,False,True,False,True,False,True,,,,10.0,,8.0,,9.0
+24,S0025,14,Male,USA,10th,True,False,True,True,False,False,False,False,False,,7.0,7.0,,,,,
+25,S0026,16,Female,Japan,10th,True,False,False,False,True,True,False,False,False,,,,7.0,6.0,,,
+26,S0027,16,Male,South Korea,12th,True,True,False,False,True,True,False,True,True,7.0,,,7.0,6.0,,8.0,6.0
+27,S0028,15,Male,Brazil,11th,True,False,False,True,False,True,True,False,False,,,6.0,,10.0,7.0,,
+28,S0029,17,Male,USA,12th,True,True,True,False,True,True,False,False,True,8.0,6.0,,8.0,7.0,,,9.0
+29,S0030,17,Female,UK,9th,True,True,False,False,False,True,True,False,False,8.0,,,,10.0,7.0,,
+30,S0031,16,Female,India,9th,True,False,True,True,True,False,True,False,False,,10.0,10.0,6.0,,6.0,,
+31,S0032,17,Male,USA,9th,True,False,False,False,True,False,True,False,False,,,,6.0,,8.0,,
+32,S0033,17,Male,Nigeria,11th,True,False,False,False,True,False,False,True,True,,,,9.0,,,10.0,8.0
+33,S0034,14,Female,South Korea,10th,True,False,False,True,False,False,False,False,True,,,9.0,,,,,10.0
+34,S0035,16,Male,UK,11th,True,False,True,False,False,False,False,True,True,,8.0,,,,,10.0,9.0
+35,S0036,18,Female,Nigeria,11th,True,True,False,False,False,False,False,False,False,6.0,,,,,,,
+36,S0037,16,Female,Brazil,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+37,S0038,18,Male,Nigeria,12th,True,False,True,False,False,True,False,False,True,,9.0,,,10.0,,,10.0
+38,S0039,14,Male,Germany,9th,True,False,False,False,False,True,True,False,True,,,,,8.0,6.0,,9.0
+39,S0040,15,Non-binary,Germany,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+40,S0041,17,Male,Canada,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+41,S0042,14,Male,Japan,11th,True,False,True,False,False,True,True,False,False,,7.0,,,8.0,9.0,,
+42,S0043,17,Female,Japan,9th,True,False,False,False,False,True,False,True,False,,,,,8.0,,6.0,
+43,S0044,15,Non-binary,UK,11th,True,False,False,False,False,False,True,True,False,,,,,,6.0,9.0,
+44,S0045,15,Non-binary,Brazil,12th,True,False,True,True,False,False,True,False,True,,6.0,9.0,,,10.0,,8.0
+45,S0046,14,Female,Australia,11th,True,False,False,False,True,True,False,False,False,,,,8.0,7.0,,,
+46,S0047,15,Male,Germany,12th,True,False,True,False,True,False,False,True,True,,8.0,,9.0,,,8.0,6.0
+47,S0048,18,Male,UK,10th,True,False,False,False,True,False,False,False,True,,,,8.0,,,,8.0
+48,S0049,15,Female,Australia,10th,True,False,False,False,True,False,False,True,False,,,,10.0,,,6.0,
+49,S0050,17,Female,Japan,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+50,S0051,17,Male,Canada,11th,True,False,False,False,False,False,False,False,False,,,,,,,,
+51,S0052,17,Non-binary,Nigeria,10th,True,False,False,False,False,False,False,True,False,,,,,,,9.0,
+52,S0053,17,Male,Germany,9th,True,False,False,False,False,False,False,False,False,,,,,,,,
+53,S0054,18,Female,UK,12th,True,False,False,True,False,False,False,False,False,,,6.0,,,,,
+54,S0055,16,Male,USA,12th,True,True,False,False,False,True,True,False,True,10.0,,,,7.0,6.0,,6.0
+55,S0056,14,Female,Australia,9th,True,True,False,True,True,False,False,False,False,9.0,,8.0,7.0,,,,
+56,S0057,17,Male,Nigeria,11th,True,False,True,True,False,False,False,True,True,,7.0,7.0,,,,6.0,6.0
+57,S0058,15,Male,Germany,11th,True,True,True,False,False,False,False,False,False,7.0,7.0,,,,,,
+58,S0059,17,Male,Japan,12th,True,True,False,False,False,True,False,False,False,9.0,,,,10.0,,,
+59,S0060,15,Female,Brazil,10th,True,False,False,False,False,True,False,False,False,,,,,8.0,,,
+60,S0061,15,Female,Australia,11th,True,True,False,False,True,True,False,True,False,9.0,,,10.0,7.0,,6.0,
+61,S0062,17,Female,Japan,11th,True,True,False,False,False,False,True,False,False,10.0,,,,,10.0,,
+62,S0063,18,Non-binary,Germany,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+63,S0064,15,Male,Australia,9th,True,True,True,False,False,False,True,False,True,9.0,8.0,,,,10.0,,10.0
+64,S0065,15,Male,Nigeria,10th,True,False,False,False,False,False,True,False,False,,,,,,10.0,,
+65,S0066,17,Female,Germany,11th,True,False,False,True,False,False,True,True,False,,,9.0,,,9.0,10.0,
+66,S0067,15,Male,South Korea,11th,True,False,False,False,True,False,False,False,False,,,,8.0,,,,
+67,S0068,15,Non-binary,UK,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+68,S0069,17,Male,Nigeria,11th,True,True,True,True,False,False,True,False,False,9.0,6.0,10.0,,,6.0,,
+69,S0070,17,Non-binary,Australia,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+70,S0071,14,Male,Brazil,9th,True,True,True,False,True,False,True,True,False,8.0,6.0,,7.0,,6.0,9.0,
+71,S0072,18,Female,Japan,10th,True,False,False,False,False,True,False,True,True,,,,,6.0,,8.0,8.0
+72,S0073,18,Female,USA,9th,True,False,False,True,False,True,False,False,False,,,10.0,,10.0,,,
+73,S0074,15,Non-binary,Japan,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+74,S0075,18,Male,Australia,10th,True,True,False,True,False,True,False,True,False,10.0,,8.0,,9.0,,8.0,
+75,S0076,15,Female,Japan,9th,True,False,True,False,False,False,True,False,True,,10.0,,,,9.0,,9.0
+76,S0077,14,Non-binary,UK,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+77,S0078,17,Female,Germany,12th,True,False,False,True,False,False,True,True,False,,,9.0,,,8.0,9.0,
+78,S0079,17,Female,USA,9th,True,True,True,False,False,False,False,False,False,6.0,9.0,,,,,,
+79,S0080,17,Female,India,12th,True,False,True,False,False,True,True,False,False,,8.0,,,10.0,7.0,,
+80,S0081,18,Female,Australia,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+81,S0082,14,Female,Canada,12th,True,True,False,False,False,True,True,True,False,7.0,,,,9.0,6.0,10.0,
+82,S0083,18,Female,India,10th,True,False,False,False,True,False,False,False,False,,,,6.0,,,,
+83,S0084,18,Non-binary,Japan,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+84,S0085,14,Male,Australia,12th,True,False,True,False,True,False,False,False,False,,8.0,,6.0,,,,
+85,S0086,14,Male,South Korea,12th,True,True,False,False,True,False,True,False,False,9.0,,,9.0,,7.0,,
+86,S0087,14,Non-binary,Canada,10th,True,True,False,False,True,True,False,False,True,7.0,,,8.0,8.0,,,8.0
+87,S0088,14,Female,USA,9th,True,False,False,False,False,False,False,False,False,,,,,,,,
+88,S0089,17,Female,Brazil,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+89,S0090,16,Female,South Korea,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+90,S0091,16,Male,India,9th,True,True,False,True,False,False,True,False,False,6.0,,6.0,,,9.0,,
+91,S0092,14,Male,Germany,12th,True,False,False,True,True,True,False,True,False,,,10.0,8.0,9.0,,7.0,
+92,S0093,16,Female,UK,10th,True,False,False,False,False,False,False,False,False,,,,,,,,
+93,S0094,16,Male,Brazil,9th,True,False,False,False,False,False,False,True,False,,,,,,,6.0,
+94,S0095,14,Female,South Korea,10th,True,False,True,False,False,False,False,True,False,,8.0,,,,,10.0,
+95,S0096,16,Male,Germany,12th,True,False,False,False,False,False,False,False,False,,,,,,,,
+96,S0097,18,Non-binary,Germany,12th,True,False,True,True,True,True,True,False,True,,6.0,8.0,6.0,8.0,8.0,,10.0
+97,S0098,15,Non-binary,Australia,10th,True,True,True,False,True,True,True,False,False,7.0,9.0,,10.0,6.0,8.0,,
+98,S0099,15,Female,South Korea,11th,True,False,False,False,False,False,False,False,False,,,,,,,,
+99,S0100,14,Female,USA,10th,True,True,False,False,False,False,False,True,False,6.0,,,,,,9.0,
+100,S0101,17,Male,Japan,12th,True,True,False,False,True,True,True,False,False,8.0,,,7.0,9.0,8.0,,
+101,S0102,14,Female,Canada,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+102,S0103,17,Female,Canada,11th,True,False,False,True,False,False,False,False,False,,,9.0,,,,,
+103,S0104,15,Male,India,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+104,S0105,14,Non-binary,India,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+105,S0106,18,Female,Canada,11th,True,True,False,False,True,True,False,True,True,9.0,,,10.0,10.0,,6.0,6.0
+106,S0107,16,Non-binary,USA,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+107,S0108,17,Female,UK,10th,True,False,False,True,False,True,True,False,False,,,9.0,,8.0,9.0,,
+108,S0109,16,Female,Nigeria,9th,True,False,True,False,False,False,False,False,False,,10.0,,,,,,
+109,S0110,16,Male,Japan,12th,True,True,False,True,True,False,False,False,False,6.0,,9.0,10.0,,,,
+110,S0111,14,Non-binary,UK,11th,True,False,False,False,False,False,False,True,False,,,,,,,8.0,
+111,S0112,16,Female,Australia,9th,True,False,False,True,True,False,False,False,False,,,9.0,6.0,,,,
+112,S0113,18,Male,Nigeria,10th,True,False,False,False,True,False,True,True,False,,,,6.0,,10.0,7.0,
+113,S0114,16,Male,Nigeria,12th,True,False,True,False,False,True,True,False,False,,7.0,,,10.0,10.0,,
+114,S0115,14,Male,South Korea,9th,True,False,False,False,False,True,False,False,True,,,,,7.0,,,10.0
+115,S0116,18,Female,USA,11th,True,False,True,False,True,True,False,False,True,,7.0,,6.0,8.0,,,7.0
+116,S0117,15,Non-binary,USA,9th,True,False,True,False,False,True,True,True,False,,8.0,,,9.0,7.0,8.0,
+117,S0118,16,Male,Nigeria,11th,True,False,False,False,False,True,True,False,True,,,,,8.0,10.0,,7.0
+118,S0119,14,Female,South Korea,10th,True,False,False,False,False,False,False,True,True,,,,,,,9.0,9.0
+119,S0120,15,Male,Japan,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+120,S0121,15,Non-binary,Nigeria,12th,True,False,True,False,False,False,False,True,True,,9.0,,,,,6.0,10.0
+121,S0122,17,Female,Brazil,12th,True,False,False,False,False,True,False,False,False,,,,,10.0,,,
+122,S0123,18,Female,India,10th,True,False,True,False,True,False,False,False,False,,6.0,,9.0,,,,
+123,S0124,16,Female,India,11th,True,False,False,False,False,True,False,True,False,,,,,6.0,,9.0,
+124,S0125,14,Male,UK,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+125,S0126,17,Male,Australia,12th,True,False,False,False,False,True,False,True,False,,,,,8.0,,6.0,
+126,S0127,18,Male,India,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+127,S0128,17,Female,Germany,10th,True,False,False,False,True,False,True,False,True,,,,10.0,,10.0,,9.0
+128,S0129,18,Female,UK,10th,True,False,False,True,True,False,True,False,False,,,9.0,8.0,,8.0,,
+129,S0130,18,Non-binary,India,11th,True,False,True,True,False,False,False,True,True,,9.0,10.0,,,,10.0,9.0
+130,S0131,16,Non-binary,Australia,9th,True,False,True,True,False,False,False,False,True,,9.0,8.0,,,,,7.0
+131,S0132,18,Female,USA,9th,True,False,False,True,False,True,False,False,False,,,9.0,,9.0,,,
+132,S0133,17,Female,USA,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+133,S0134,18,Non-binary,Japan,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+134,S0135,16,Female,Nigeria,9th,True,False,False,False,False,False,True,True,True,,,,,,8.0,7.0,9.0
+135,S0136,16,Male,Brazil,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+136,S0137,17,Female,USA,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+137,S0138,15,Male,South Korea,12th,True,True,False,False,True,True,True,True,False,7.0,,,7.0,7.0,7.0,10.0,
+138,S0139,15,Non-binary,India,9th,True,True,True,False,False,False,False,False,False,9.0,6.0,,,,,,
+139,S0140,18,Female,South Korea,11th,True,False,False,False,True,False,True,True,False,,,,9.0,,6.0,10.0,
+140,S0141,14,Male,Australia,10th,True,False,False,True,False,False,True,False,True,,,7.0,,,7.0,,7.0
+141,S0142,18,Female,USA,12th,True,False,False,False,True,False,False,False,True,,,,8.0,,,,6.0
+142,S0143,17,Female,Brazil,11th,True,True,False,False,True,False,False,False,False,8.0,,,10.0,,,,
+143,S0144,17,Male,Australia,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+144,S0145,17,Male,Germany,12th,True,True,False,False,True,True,False,True,False,9.0,,,6.0,6.0,,9.0,
+145,S0146,17,Female,Germany,10th,True,False,False,False,False,True,False,False,False,,,,,7.0,,,
+146,S0147,17,Female,South Korea,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+147,S0148,16,Female,Nigeria,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+148,S0149,15,Female,UK,9th,True,True,False,False,False,False,False,False,True,6.0,,,,,,,10.0
+149,S0150,17,Female,Nigeria,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+150,S0151,14,Female,Japan,9th,True,True,False,False,True,False,False,True,False,8.0,,,10.0,,,7.0,
+151,S0152,14,Female,Nigeria,9th,True,True,False,True,False,True,False,False,False,7.0,,7.0,,8.0,,,
+152,S0153,14,Female,Japan,12th,True,False,True,False,False,True,False,False,False,,8.0,,,10.0,,,
+153,S0154,14,Male,Japan,10th,True,False,False,True,False,False,True,False,False,,,8.0,,,7.0,,
+154,S0155,16,Male,Brazil,11th,True,False,False,False,True,True,False,False,False,,,,7.0,10.0,,,
+155,S0156,14,Male,USA,9th,True,False,True,False,False,False,False,False,False,,9.0,,,,,,
+156,S0157,17,Female,Brazil,9th,True,True,False,True,False,False,True,False,False,8.0,,6.0,,,9.0,,
+157,S0158,18,Female,Japan,11th,True,True,False,False,True,False,True,False,False,8.0,,,9.0,,9.0,,
+158,S0159,14,Female,Australia,9th,True,True,False,False,False,False,False,False,True,10.0,,,,,,,9.0
+159,S0160,16,Male,Germany,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+160,S0161,16,Male,Japan,12th,True,True,False,True,True,False,False,False,False,8.0,,6.0,9.0,,,,
+161,S0162,14,Male,Brazil,12th,True,False,False,False,True,True,False,False,True,,,,7.0,9.0,,,7.0
+162,S0163,18,Male,Australia,12th,True,True,True,False,False,True,False,True,True,8.0,7.0,,,10.0,,6.0,8.0
+163,S0164,14,Female,Brazil,9th,True,False,False,True,True,False,False,False,True,,,6.0,8.0,,,,9.0
+164,S0165,16,Male,Nigeria,11th,True,False,True,False,False,False,False,True,False,,6.0,,,,,6.0,
+165,S0166,15,Male,India,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+166,S0167,17,Non-binary,South Korea,11th,True,False,True,False,False,False,False,False,True,,10.0,,,,,,6.0
+167,S0168,16,Male,UK,11th,True,False,True,False,False,False,True,False,False,,8.0,,,,7.0,,
+168,S0169,14,Female,Brazil,10th,True,True,True,False,False,False,False,False,False,9.0,6.0,,,,,,
+169,S0170,17,Female,UK,11th,True,False,False,True,False,False,False,False,False,,,7.0,,,,,
+170,S0171,14,Male,Canada,10th,True,True,False,True,False,False,True,False,False,7.0,,6.0,,,7.0,,
+171,S0172,14,Female,Brazil,10th,True,False,True,False,True,False,False,False,False,,10.0,,8.0,,,,
+172,S0173,15,Female,India,12th,True,False,True,True,True,False,False,False,False,,10.0,10.0,9.0,,,,
+173,S0174,17,Non-binary,UK,10th,True,True,True,False,False,False,True,True,True,9.0,9.0,,,,7.0,8.0,6.0
+174,S0175,17,Male,Japan,9th,True,False,False,True,False,False,False,True,False,,,9.0,,,,6.0,
+175,S0176,15,Non-binary,Brazil,10th,True,False,True,False,False,True,True,True,False,,9.0,,,6.0,10.0,9.0,
+176,S0177,16,Female,USA,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+177,S0178,14,Male,South Korea,10th,True,False,False,False,True,False,True,True,False,,,,9.0,,9.0,10.0,
+178,S0179,18,Female,India,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+179,S0180,14,Non-binary,UK,9th,True,False,True,True,True,False,False,False,False,,9.0,7.0,6.0,,,,
+180,S0181,14,Female,India,9th,True,True,False,False,True,True,False,False,False,9.0,,,8.0,10.0,,,
+181,S0182,16,Male,Australia,12th,True,False,False,True,False,False,False,True,False,,,8.0,,,,10.0,
+182,S0183,14,Female,South Korea,12th,True,False,False,False,False,False,False,False,False,,,,,,,,
+183,S0184,15,Male,Japan,11th,True,False,False,False,True,False,False,False,True,,,,7.0,,,,8.0
+184,S0185,15,Male,Brazil,12th,True,True,False,True,False,False,True,False,False,6.0,,8.0,,,7.0,,
+185,S0186,17,Male,Brazil,9th,True,False,True,True,False,False,True,False,False,,6.0,9.0,,,8.0,,
+186,S0187,18,Male,Brazil,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+187,S0188,14,Male,South Korea,12th,True,False,False,True,True,True,False,True,False,,,7.0,8.0,9.0,,10.0,
+188,S0189,14,Male,USA,10th,True,True,True,True,True,True,True,False,True,9.0,6.0,6.0,6.0,8.0,8.0,,7.0
+189,S0190,16,Female,Canada,12th,True,False,False,False,False,False,True,False,False,,,,,,10.0,,
+190,S0191,15,Male,Germany,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+191,S0192,18,Male,Nigeria,9th,True,False,True,False,False,False,True,False,False,,8.0,,,,10.0,,
+192,S0193,17,Female,UK,11th,True,True,True,True,False,False,False,False,False,10.0,9.0,6.0,,,,,
+193,S0194,15,Female,USA,9th,True,False,True,False,False,True,False,False,False,,10.0,,,8.0,,,
+194,S0195,17,Female,Japan,11th,True,False,True,False,False,False,False,True,False,,7.0,,,,,7.0,
+195,S0196,16,Male,UK,9th,True,False,True,False,False,False,True,True,False,,8.0,,,,6.0,6.0,
+196,S0197,16,Male,Brazil,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+197,S0198,14,Male,India,9th,True,True,False,False,True,True,False,False,True,10.0,,,9.0,10.0,,,9.0
+198,S0199,18,Male,Japan,9th,True,False,False,False,True,False,False,False,False,,,,9.0,,,,
+199,S0200,17,Male,UK,9th,True,False,False,False,False,False,False,False,False,,,,,,,,
+200,S0201,15,Male,Brazil,12th,True,False,False,False,True,False,False,True,False,,,,6.0,,,9.0,
+201,S0202,16,Male,UK,12th,True,True,True,False,False,True,False,True,False,6.0,6.0,,,7.0,,7.0,
+202,S0203,14,Male,India,12th,True,True,False,False,True,True,True,False,False,7.0,,,7.0,8.0,6.0,,
+203,S0204,14,Female,Brazil,12th,True,False,False,True,False,False,False,False,False,,,10.0,,,,,
+204,S0205,17,Male,Canada,11th,True,False,False,True,True,False,True,False,False,,,10.0,9.0,,6.0,,
+205,S0206,16,Male,USA,11th,True,True,False,True,True,True,False,True,True,7.0,,6.0,10.0,10.0,,8.0,7.0
+206,S0207,18,Female,Australia,10th,True,False,False,False,False,False,True,False,False,,,,,,10.0,,
+207,S0208,16,Female,Nigeria,12th,True,False,False,True,False,False,True,False,False,,,8.0,,,10.0,,
+208,S0209,17,Male,South Korea,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+209,S0210,17,Female,Nigeria,9th,True,False,False,False,False,False,True,True,False,,,,,,10.0,9.0,
+210,S0211,16,Female,Japan,12th,True,False,False,False,False,False,True,False,True,,,,,,8.0,,6.0
+211,S0212,17,Male,Nigeria,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+212,S0213,16,Female,Brazil,10th,True,False,False,False,False,False,True,True,True,,,,,,10.0,9.0,7.0
+213,S0214,15,Non-binary,Canada,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+214,S0215,16,Male,Australia,9th,True,False,True,False,False,False,False,False,False,,8.0,,,,,,
+215,S0216,16,Male,USA,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+216,S0217,17,Female,USA,9th,True,True,True,False,False,False,False,False,True,9.0,8.0,,,,,,6.0
+217,S0218,17,Female,India,12th,True,False,False,False,True,False,False,False,False,,,,9.0,,,,
+218,S0219,14,Male,South Korea,10th,True,False,False,False,True,False,False,False,False,,,,10.0,,,,
+219,S0220,14,Male,UK,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+220,S0221,15,Male,Canada,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+221,S0222,14,Female,UK,11th,True,True,False,True,False,False,False,True,False,9.0,,8.0,,,,9.0,
+222,S0223,16,Female,Australia,11th,True,True,False,True,False,False,False,False,False,9.0,,10.0,,,,,
+223,S0224,17,Male,Nigeria,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+224,S0225,14,Female,USA,9th,True,False,True,False,False,False,False,False,False,,8.0,,,,,,
+225,S0226,14,Female,Australia,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+226,S0227,15,Male,Nigeria,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+227,S0228,15,Male,USA,9th,True,False,False,False,True,False,False,False,False,,,,6.0,,,,
+228,S0229,16,Female,Nigeria,9th,True,True,True,True,False,False,True,False,False,7.0,8.0,9.0,,,8.0,,
+229,S0230,17,Female,South Korea,9th,True,False,True,False,True,False,False,False,False,,7.0,,6.0,,,,
+230,S0231,15,Female,Canada,11th,True,True,False,False,False,False,False,False,False,8.0,,,,,,,
+231,S0232,14,Female,Japan,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+232,S0233,17,Male,Australia,12th,True,False,False,False,False,False,True,True,False,,,,,,6.0,10.0,
+233,S0234,17,Male,Australia,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+234,S0235,14,Female,Germany,12th,True,False,True,True,True,True,False,True,False,,9.0,6.0,9.0,9.0,,9.0,
+235,S0236,15,Male,Brazil,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+236,S0237,14,Male,South Korea,10th,True,False,True,True,True,False,False,False,False,,10.0,10.0,8.0,,,,
+237,S0238,17,Male,South Korea,12th,True,True,True,False,False,False,False,False,False,10.0,8.0,,,,,,
+238,S0239,18,Male,UK,11th,True,False,False,False,False,True,False,False,True,,,,,10.0,,,7.0
+239,S0240,18,Male,Nigeria,11th,True,False,True,False,False,False,False,False,True,,8.0,,,,,,8.0
+240,S0241,16,Male,Brazil,10th,True,False,False,False,True,False,True,False,False,,,,10.0,,6.0,,
+241,S0242,14,Male,Canada,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+242,S0243,14,Male,Canada,9th,True,False,False,False,True,True,False,False,False,,,,7.0,8.0,,,
+243,S0244,16,Female,South Korea,10th,True,False,True,False,True,False,False,True,False,,8.0,,9.0,,,6.0,
+244,S0245,16,Female,Canada,9th,True,False,True,False,True,False,True,False,False,,9.0,,7.0,,6.0,,
+245,S0246,16,Female,Germany,9th,True,False,False,True,False,False,True,False,False,,,10.0,,,7.0,,
+246,S0247,17,Female,Australia,11th,True,False,True,False,True,False,False,True,True,,6.0,,9.0,,,9.0,10.0
+247,S0248,14,Female,India,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+248,S0249,17,Male,Japan,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+249,S0250,16,Female,UK,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+250,S0251,14,Female,Nigeria,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+251,S0252,17,Female,Japan,10th,True,False,False,False,False,False,False,False,False,,,,,,,,
+252,S0253,17,Male,Nigeria,11th,True,False,False,True,False,False,False,False,False,,,6.0,,,,,
+253,S0254,16,Male,USA,12th,True,True,False,False,False,False,True,False,False,8.0,,,,,7.0,,
+254,S0255,14,Male,Japan,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+255,S0256,16,Male,India,12th,True,False,True,True,True,True,False,False,False,,6.0,6.0,8.0,9.0,,,
+256,S0257,14,Female,South Korea,11th,True,True,True,False,False,False,True,False,False,8.0,7.0,,,,9.0,,
+257,S0258,18,Female,Germany,12th,True,False,False,False,False,False,False,False,True,,,,,,,,8.0
+258,S0259,15,Male,Australia,10th,True,True,True,True,False,True,False,False,False,7.0,6.0,8.0,,10.0,,,
+259,S0260,15,Non-binary,Australia,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+260,S0261,15,Female,Germany,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+261,S0262,16,Male,Brazil,12th,True,False,False,False,True,True,True,False,False,,,,8.0,6.0,9.0,,
+262,S0263,18,Male,USA,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+263,S0264,14,Male,Nigeria,10th,True,False,True,True,False,True,True,False,False,,8.0,9.0,,9.0,9.0,,
+264,S0265,17,Male,India,12th,True,False,False,False,True,False,True,False,False,,,,8.0,,7.0,,
+265,S0266,14,Male,Canada,11th,True,False,True,False,False,False,False,False,False,,8.0,,,,,,
+266,S0267,17,Male,Japan,12th,True,False,False,False,False,False,False,False,True,,,,,,,,8.0
+267,S0268,14,Male,USA,10th,True,False,False,True,False,True,False,False,False,,,9.0,,6.0,,,
+268,S0269,18,Male,Japan,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+269,S0270,17,Female,India,9th,True,False,False,False,False,False,False,False,False,,,,,,,,
+270,S0271,16,Male,UK,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+271,S0272,14,Female,UK,12th,True,False,False,False,False,False,False,True,False,,,,,,,10.0,
+272,S0273,14,Male,USA,9th,True,False,False,True,False,False,False,True,False,,,6.0,,,,9.0,
+273,S0274,17,Non-binary,South Korea,12th,True,False,False,False,True,False,False,False,False,,,,8.0,,,,
+274,S0275,16,Male,India,10th,True,True,False,False,True,True,True,False,False,8.0,,,6.0,7.0,7.0,,
+275,S0276,16,Male,India,9th,True,False,True,True,False,False,True,False,False,,8.0,7.0,,,9.0,,
+276,S0277,18,Non-binary,Germany,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+277,S0278,16,Female,South Korea,10th,True,False,False,False,False,False,False,False,True,,,,,,,,10.0
+278,S0279,16,Female,Nigeria,11th,True,False,False,True,False,True,True,False,False,,,10.0,,9.0,9.0,,
+279,S0280,16,Male,Nigeria,10th,True,False,False,False,False,False,False,True,True,,,,,,,8.0,10.0
+280,S0281,15,Male,Canada,9th,True,False,True,False,False,False,True,False,False,,7.0,,,,10.0,,
+281,S0282,18,Female,Australia,11th,True,True,False,True,False,True,True,False,False,6.0,,10.0,,6.0,9.0,,
+282,S0283,14,Non-binary,UK,11th,True,False,False,True,True,False,False,False,False,,,6.0,6.0,,,,
+283,S0284,17,Female,Nigeria,10th,True,True,True,True,False,False,False,False,False,9.0,8.0,7.0,,,,,
+284,S0285,14,Female,South Korea,11th,True,True,False,True,True,True,False,False,False,6.0,,8.0,10.0,8.0,,,
+285,S0286,18,Male,India,10th,True,False,False,False,False,True,False,False,True,,,,,8.0,,,9.0
+286,S0287,17,Female,Nigeria,10th,True,False,False,False,False,False,False,False,True,,,,,,,,9.0
+287,S0288,18,Male,India,10th,True,False,True,True,False,True,True,True,True,,6.0,6.0,,7.0,10.0,8.0,8.0
+288,S0289,16,Male,Nigeria,10th,True,False,False,False,False,True,False,False,False,,,,,9.0,,,
+289,S0290,17,Male,UK,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+290,S0291,16,Female,Japan,10th,True,False,False,False,True,True,True,True,False,,,,7.0,9.0,8.0,10.0,
+291,S0292,14,Male,Nigeria,12th,True,False,False,False,False,False,False,False,False,,,,,,,,
+292,S0293,14,Male,South Korea,11th,True,True,False,False,True,True,False,False,True,10.0,,,9.0,9.0,,,8.0
+293,S0294,17,Female,Nigeria,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+294,S0295,17,Male,Australia,9th,True,True,True,False,True,False,False,True,False,9.0,9.0,,9.0,,,6.0,
+295,S0296,18,Female,UK,12th,True,False,False,True,False,True,False,True,False,,,6.0,,7.0,,6.0,
+296,S0297,18,Male,South Korea,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+297,S0298,16,Female,Germany,12th,True,True,False,True,False,False,False,False,False,8.0,,10.0,,,,,
+298,S0299,17,Female,South Korea,9th,True,True,True,True,False,False,False,False,False,10.0,9.0,6.0,,,,,
+299,S0300,14,Male,Australia,10th,True,True,False,False,True,True,False,False,True,9.0,,,6.0,9.0,,,6.0
+300,S0301,18,Male,Japan,12th,True,False,False,False,False,True,False,False,False,,,,,8.0,,,
+301,S0302,18,Male,UK,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+302,S0303,14,Male,Germany,9th,True,False,False,False,True,False,False,False,False,,,,9.0,,,,
+303,S0304,18,Non-binary,Australia,11th,True,False,False,False,False,False,False,False,True,,,,,,,,6.0
+304,S0305,16,Male,Australia,11th,True,False,True,True,True,False,False,True,False,,10.0,6.0,6.0,,,7.0,
+305,S0306,17,Female,USA,12th,True,True,False,True,True,False,False,False,False,8.0,,6.0,10.0,,,,
+306,S0307,14,Male,UK,10th,True,True,True,False,False,True,False,False,False,6.0,6.0,,,6.0,,,
+307,S0308,17,Female,South Korea,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+308,S0309,18,Female,India,12th,True,True,True,True,False,True,False,False,False,9.0,8.0,10.0,,8.0,,,
+309,S0310,18,Female,Japan,9th,True,False,False,False,True,False,True,False,False,,,,7.0,,7.0,,
+310,S0311,14,Female,India,9th,True,False,False,True,True,False,False,False,False,,,8.0,10.0,,,,
+311,S0312,16,Male,South Korea,10th,True,False,False,True,False,False,True,False,True,,,8.0,,,9.0,,9.0
+312,S0313,15,Male,South Korea,10th,True,True,True,False,False,True,False,False,False,8.0,9.0,,,8.0,,,
+313,S0314,14,Non-binary,UK,12th,True,False,True,True,False,True,True,False,True,,6.0,6.0,,6.0,7.0,,9.0
+314,S0315,15,Female,South Korea,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+315,S0316,15,Non-binary,USA,10th,True,False,True,True,True,False,False,False,False,,9.0,10.0,8.0,,,,
+316,S0317,16,Male,Germany,12th,True,False,False,True,False,False,False,False,False,,,8.0,,,,,
+317,S0318,15,Female,South Korea,10th,True,False,False,False,True,False,False,False,False,,,,8.0,,,,
+318,S0319,15,Non-binary,India,11th,True,False,True,False,True,False,False,False,False,,8.0,,8.0,,,,
+319,S0320,16,Male,South Korea,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+320,S0321,15,Male,USA,9th,True,True,False,False,False,False,False,False,True,6.0,,,,,,,6.0
+321,S0322,15,Female,Nigeria,9th,True,True,False,False,False,True,False,True,False,10.0,,,,8.0,,10.0,
+322,S0323,15,Female,Nigeria,9th,True,False,False,True,False,False,True,True,True,,,8.0,,,7.0,9.0,6.0
+323,S0324,14,Female,Australia,12th,True,False,False,False,False,False,False,False,False,,,,,,,,
+324,S0325,14,Male,Japan,9th,True,False,False,False,False,True,False,False,False,,,,,7.0,,,
+325,S0326,14,Female,Canada,9th,True,True,False,True,False,False,True,False,True,10.0,,8.0,,,7.0,,7.0
+326,S0327,16,Male,Germany,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+327,S0328,18,Male,Brazil,9th,True,False,False,False,False,False,False,False,False,,,,,,,,
+328,S0329,15,Male,Australia,11th,True,False,False,False,False,False,False,True,False,,,,,,,10.0,
+329,S0330,15,Female,Japan,9th,True,False,False,False,False,False,False,False,False,,,,,,,,
+330,S0331,16,Female,Nigeria,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+331,S0332,15,Female,India,12th,True,False,False,False,False,False,True,False,False,,,,,,8.0,,
+332,S0333,14,Male,Brazil,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+333,S0334,18,Female,Japan,9th,True,True,False,False,False,False,False,False,True,10.0,,,,,,,7.0
+334,S0335,17,Male,Japan,10th,True,False,False,False,False,False,False,True,False,,,,,,,7.0,
+335,S0336,15,Female,Australia,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+336,S0337,14,Male,Brazil,12th,True,False,True,False,False,False,False,False,False,,9.0,,,,,,
+337,S0338,17,Male,UK,10th,True,False,False,False,False,False,False,False,False,,,,,,,,
+338,S0339,18,Female,Canada,11th,True,False,False,False,False,False,True,True,True,,,,,,6.0,10.0,6.0
+339,S0340,17,Male,UK,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+340,S0341,14,Female,Brazil,10th,True,True,False,False,True,False,True,False,True,10.0,,,10.0,,9.0,,7.0
+341,S0342,17,Female,UK,10th,True,True,True,True,True,False,False,False,True,7.0,10.0,10.0,9.0,,,,10.0
+342,S0343,16,Male,USA,9th,True,True,False,True,False,True,True,False,False,9.0,,10.0,,6.0,6.0,,
+343,S0344,17,Female,Nigeria,9th,True,False,True,False,False,True,False,False,False,,10.0,,,8.0,,,
+344,S0345,15,Male,USA,11th,True,False,False,False,False,False,False,True,False,,,,,,,10.0,
+345,S0346,15,Female,South Korea,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+346,S0347,16,Non-binary,UK,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+347,S0348,14,Female,South Korea,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+348,S0349,15,Male,India,9th,True,False,True,True,False,False,False,False,False,,9.0,6.0,,,,,
+349,S0350,18,Non-binary,Germany,12th,True,False,False,False,True,False,False,True,False,,,,7.0,,,7.0,
+350,S0351,15,Female,India,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+351,S0352,15,Male,Brazil,10th,True,True,False,False,False,False,False,False,False,9.0,,,,,,,
+352,S0353,14,Male,Japan,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+353,S0354,17,Female,Nigeria,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+354,S0355,15,Female,UK,9th,True,True,True,False,False,False,True,True,False,7.0,6.0,,,,6.0,6.0,
+355,S0356,16,Female,Australia,11th,True,False,True,True,True,False,True,False,False,,6.0,9.0,8.0,,6.0,,
+356,S0357,17,Female,Germany,9th,True,False,False,False,True,False,True,False,False,,,,8.0,,7.0,,
+357,S0358,18,Female,Canada,12th,True,False,False,True,False,True,False,True,True,,,8.0,,10.0,,9.0,9.0
+358,S0359,14,Male,Canada,10th,True,False,False,False,False,False,True,False,False,,,,,,10.0,,
+359,S0360,18,Male,Canada,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+360,S0361,17,Male,UK,11th,True,False,True,False,False,False,True,True,False,,6.0,,,,7.0,7.0,
+361,S0362,17,Female,Canada,9th,True,False,False,False,False,False,False,False,True,,,,,,,,9.0
+362,S0363,17,Male,USA,11th,True,False,False,False,False,False,False,False,False,,,,,,,,
+363,S0364,18,Female,Germany,12th,True,False,False,False,False,False,True,False,False,,,,,,7.0,,
+364,S0365,17,Female,USA,9th,True,False,True,False,False,False,False,False,False,,9.0,,,,,,
+365,S0366,18,Female,Japan,9th,True,False,False,False,False,True,True,False,False,,,,,8.0,6.0,,
+366,S0367,17,Male,Germany,9th,True,False,False,True,False,True,False,False,False,,,9.0,,7.0,,,
+367,S0368,16,Female,USA,9th,True,False,True,False,False,False,False,False,False,,6.0,,,,,,
+368,S0369,17,Male,Germany,12th,True,True,False,True,False,False,True,True,False,8.0,,10.0,,,7.0,8.0,
+369,S0370,18,Female,Japan,9th,True,False,True,False,True,False,False,False,False,,8.0,,8.0,,,,
+370,S0371,15,Male,South Korea,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+371,S0372,17,Male,UK,12th,True,False,False,False,False,False,False,False,False,,,,,,,,
+372,S0373,15,Female,UK,10th,True,False,False,False,True,False,False,True,False,,,,7.0,,,6.0,
+373,S0374,16,Male,Canada,10th,True,False,False,False,False,False,False,True,False,,,,,,,8.0,
+374,S0375,14,Male,India,11th,True,False,False,True,False,False,True,False,False,,,10.0,,,6.0,,
+375,S0376,16,Female,Canada,11th,True,True,False,False,False,True,False,True,False,8.0,,,,9.0,,6.0,
+376,S0377,17,Female,Brazil,12th,True,True,True,False,True,False,False,False,False,10.0,10.0,,8.0,,,,
+377,S0378,15,Female,USA,10th,True,True,False,True,False,False,False,True,True,6.0,,10.0,,,,9.0,6.0
+378,S0379,15,Female,Germany,10th,True,True,False,False,True,False,False,False,False,8.0,,,7.0,,,,
+379,S0380,18,Female,India,10th,True,False,True,False,False,False,True,True,False,,8.0,,,,10.0,9.0,
+380,S0381,15,Male,Japan,10th,True,True,False,False,True,False,False,False,False,6.0,,,8.0,,,,
+381,S0382,18,Male,Brazil,10th,True,False,False,False,False,True,False,False,False,,,,,8.0,,,
+382,S0383,14,Male,Japan,9th,True,False,True,True,True,False,False,False,False,,6.0,9.0,10.0,,,,
+383,S0384,17,Non-binary,UK,11th,True,False,True,False,True,False,True,False,False,,8.0,,10.0,,9.0,,
+384,S0385,18,Female,UK,9th,True,True,True,False,False,True,False,False,False,9.0,6.0,,,9.0,,,
+385,S0386,14,Male,Canada,10th,True,False,False,False,False,True,False,False,False,,,,,10.0,,,
+386,S0387,15,Female,USA,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+387,S0388,15,Non-binary,India,12th,True,False,False,True,False,True,False,True,False,,,10.0,,8.0,,10.0,
+388,S0389,14,Male,Nigeria,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+389,S0390,15,Female,Brazil,10th,True,False,False,False,False,False,False,False,True,,,,,,,,8.0
+390,S0391,14,Female,Brazil,12th,True,False,False,False,False,False,False,False,True,,,,,,,,6.0
+391,S0392,18,Female,Canada,9th,True,False,True,False,False,False,True,False,False,,9.0,,,,6.0,,
+392,S0393,18,Male,UK,9th,True,True,False,True,False,False,False,True,False,6.0,,6.0,,,,8.0,
+393,S0394,14,Female,Canada,10th,True,False,False,False,False,False,False,False,False,,,,,,,,
+394,S0395,18,Non-binary,Germany,9th,True,False,False,True,False,False,False,False,False,,,10.0,,,,,
+395,S0396,18,Female,India,12th,True,False,False,False,False,False,False,False,True,,,,,,,,7.0
+396,S0397,18,Female,USA,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+397,S0398,16,Non-binary,South Korea,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+398,S0399,17,Female,Australia,12th,True,False,False,False,False,True,False,False,False,,,,,6.0,,,
+399,S0400,15,Male,Australia,9th,True,True,True,False,False,False,False,True,False,9.0,8.0,,,,,6.0,
+400,S0401,16,Female,Canada,11th,True,False,False,True,False,False,True,False,False,,,7.0,,,10.0,,
+401,S0402,18,Female,Germany,12th,True,False,False,True,False,False,True,False,False,,,9.0,,,9.0,,
+402,S0403,14,Male,India,12th,True,False,False,False,True,False,False,False,False,,,,7.0,,,,
+403,S0404,18,Female,Nigeria,11th,True,False,False,False,False,False,False,False,False,,,,,,,,
+404,S0405,17,Non-binary,Australia,11th,True,False,False,False,False,True,False,False,False,,,,,9.0,,,
+405,S0406,18,Non-binary,India,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+406,S0407,14,Female,USA,11th,True,True,True,False,False,True,False,False,True,7.0,9.0,,,10.0,,,8.0
+407,S0408,17,Male,Japan,10th,True,False,True,True,False,True,True,False,False,,9.0,7.0,,6.0,8.0,,
+408,S0409,18,Non-binary,Germany,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+409,S0410,17,Female,UK,10th,True,False,False,False,False,False,False,True,True,,,,,,,9.0,7.0
+410,S0411,15,Male,India,12th,True,True,False,True,False,False,True,False,False,7.0,,10.0,,,6.0,,
+411,S0412,15,Non-binary,USA,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+412,S0413,18,Female,Nigeria,11th,True,False,False,False,False,False,False,True,False,,,,,,,7.0,
+413,S0414,17,Female,South Korea,9th,True,False,True,False,True,True,False,False,False,,7.0,,10.0,6.0,,,
+414,S0415,14,Female,UK,9th,True,True,True,True,False,False,False,True,True,10.0,6.0,6.0,,,,9.0,10.0
+415,S0416,18,Male,South Korea,11th,True,False,True,True,False,False,False,False,False,,10.0,8.0,,,,,
+416,S0417,15,Male,Nigeria,11th,True,True,False,False,False,False,True,False,False,8.0,,,,,6.0,,
+417,S0418,15,Male,USA,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+418,S0419,18,Female,Australia,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+419,S0420,17,Male,South Korea,11th,True,True,False,False,False,True,False,False,False,10.0,,,,6.0,,,
+420,S0421,15,Male,UK,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+421,S0422,17,Male,Canada,12th,True,False,False,False,True,False,True,False,False,,,,7.0,,8.0,,
+422,S0423,15,Female,Brazil,11th,True,False,False,False,False,False,True,False,False,,,,,,8.0,,
+423,S0424,15,Non-binary,India,9th,True,False,False,False,False,False,False,False,True,,,,,,,,7.0
+424,S0425,16,Male,Australia,12th,True,False,True,True,False,False,True,False,True,,6.0,10.0,,,6.0,,10.0
+425,S0426,15,Male,South Korea,11th,True,False,False,True,False,False,False,True,False,,,6.0,,,,7.0,
+426,S0427,14,Female,Japan,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+427,S0428,18,Female,India,11th,True,True,False,True,False,True,False,False,False,9.0,,9.0,,6.0,,,
+428,S0429,18,Male,Canada,12th,True,False,True,False,False,False,True,False,False,,10.0,,,,8.0,,
+429,S0430,17,Female,Nigeria,9th,True,True,False,True,True,False,False,False,False,10.0,,7.0,10.0,,,,
+430,S0431,15,Male,Brazil,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+431,S0432,14,Male,USA,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+432,S0433,17,Female,Canada,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+433,S0434,16,Male,Canada,10th,True,True,False,False,True,False,True,True,False,6.0,,,10.0,,7.0,6.0,
+434,S0435,17,Non-binary,Nigeria,10th,True,False,False,False,False,False,True,True,False,,,,,,9.0,9.0,
+435,S0436,17,Male,Germany,9th,True,True,False,True,False,False,False,True,False,9.0,,7.0,,,,9.0,
+436,S0437,15,Female,Nigeria,12th,True,False,False,False,False,False,True,False,True,,,,,,9.0,,10.0
+437,S0438,16,Female,Germany,12th,True,False,True,False,False,True,False,False,False,,6.0,,,8.0,,,
+438,S0439,17,Male,Germany,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+439,S0440,14,Female,Australia,12th,True,False,True,False,False,True,False,True,False,,9.0,,,8.0,,6.0,
+440,S0441,14,Male,Australia,10th,True,True,False,False,True,False,False,False,False,7.0,,,7.0,,,,
+441,S0442,18,Non-binary,UK,11th,True,False,False,False,True,True,False,False,True,,,,9.0,8.0,,,7.0
+442,S0443,16,Male,South Korea,9th,True,False,True,False,True,False,False,True,False,,8.0,,10.0,,,9.0,
+443,S0444,16,Male,South Korea,11th,True,False,False,False,False,True,False,False,False,,,,,10.0,,,
+444,S0445,18,Male,USA,12th,True,False,False,False,False,False,True,False,False,,,,,,9.0,,
+445,S0446,17,Non-binary,South Korea,11th,True,False,True,True,False,True,False,False,True,,8.0,7.0,,10.0,,,7.0
+446,S0447,16,Female,Australia,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+447,S0448,14,Female,UK,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+448,S0449,14,Male,UK,10th,True,False,False,False,True,False,False,True,False,,,,8.0,,,7.0,
+449,S0450,15,Female,Germany,12th,True,False,False,True,False,True,False,True,True,,,9.0,,10.0,,9.0,10.0
+450,S0451,16,Male,Nigeria,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+451,S0452,17,Female,USA,10th,True,False,False,True,False,False,True,False,False,,,6.0,,,7.0,,
+452,S0453,18,Male,Germany,10th,True,True,True,False,True,True,False,False,False,8.0,7.0,,9.0,7.0,,,
+453,S0454,18,Male,Nigeria,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+454,S0455,17,Male,South Korea,9th,True,True,False,False,False,True,True,True,True,9.0,,,,10.0,8.0,8.0,8.0
+455,S0456,15,Female,Germany,12th,True,False,True,True,False,True,False,False,False,,10.0,9.0,,8.0,,,
+456,S0457,18,Female,India,10th,True,False,False,False,False,False,False,False,False,,,,,,,,
+457,S0458,16,Male,South Korea,9th,True,False,False,False,False,False,False,False,False,,,,,,,,
+458,S0459,15,Female,Nigeria,10th,True,True,False,True,False,False,True,False,True,9.0,,7.0,,,10.0,,10.0
+459,S0460,16,Female,USA,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+460,S0461,14,Female,Nigeria,11th,True,True,False,True,True,True,False,False,True,6.0,,10.0,7.0,8.0,,,9.0
+461,S0462,15,Male,Germany,11th,True,False,False,True,False,False,False,True,True,,,8.0,,,,10.0,10.0
+462,S0463,18,Male,Germany,12th,True,False,False,True,False,False,True,True,False,,,9.0,,,8.0,7.0,
+463,S0464,15,Female,Canada,10th,True,False,False,True,False,False,True,True,False,,,9.0,,,6.0,8.0,
+464,S0465,15,Male,USA,11th,True,False,False,False,False,True,True,False,False,,,,,7.0,9.0,,
+465,S0466,15,Male,Japan,9th,False,False,False,False,False,False,False,False,False,,,,,,,,
+466,S0467,15,Female,South Korea,11th,True,False,True,True,False,False,False,False,False,,10.0,6.0,,,,,
+467,S0468,16,Non-binary,UK,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+468,S0469,14,Male,USA,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+469,S0470,17,Male,UK,12th,True,True,True,False,True,False,True,False,False,8.0,10.0,,9.0,,8.0,,
+470,S0471,15,Female,USA,9th,True,True,False,True,False,False,True,False,False,7.0,,6.0,,,10.0,,
+471,S0472,18,Male,USA,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+472,S0473,15,Male,Nigeria,9th,True,True,False,False,True,False,False,False,True,9.0,,,6.0,,,,8.0
+473,S0474,18,Male,USA,10th,True,True,False,False,True,False,True,False,False,9.0,,,6.0,,6.0,,
+474,S0475,16,Female,Canada,12th,True,False,False,False,True,False,False,False,True,,,,10.0,,,,9.0
+475,S0476,18,Female,Japan,12th,True,False,False,True,False,False,True,False,True,,,9.0,,,7.0,,6.0
+476,S0477,17,Male,Germany,12th,True,False,False,False,False,False,True,False,True,,,,,,7.0,,6.0
+477,S0478,14,Male,Brazil,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+478,S0479,18,Male,UK,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+479,S0480,18,Female,Germany,11th,True,True,True,False,False,False,False,False,False,6.0,9.0,,,,,,
+480,S0481,14,Male,Brazil,10th,True,False,True,False,False,False,False,False,True,,10.0,,,,,,8.0
+481,S0482,17,Male,Japan,9th,True,True,False,False,False,False,False,False,True,10.0,,,,,,,10.0
+482,S0483,15,Female,Japan,12th,True,False,True,False,False,False,False,False,False,,8.0,,,,,,
+483,S0484,18,Male,UK,12th,True,False,True,False,False,True,False,True,False,,9.0,,,7.0,,6.0,
+484,S0485,14,Female,UK,9th,True,False,False,True,False,False,False,False,False,,,7.0,,,,,
+485,S0486,16,Male,Japan,10th,True,True,False,False,False,False,True,False,False,7.0,,,,,10.0,,
+486,S0487,14,Male,Brazil,11th,False,False,False,False,False,False,False,False,False,,,,,,,,
+487,S0488,16,Male,USA,11th,True,False,False,False,False,False,False,True,True,,,,,,,7.0,7.0
+488,S0489,17,Female,South Korea,9th,True,False,False,False,False,False,False,False,True,,,,,,,,8.0
+489,S0490,15,Female,India,11th,True,True,False,False,True,True,False,False,False,8.0,,,10.0,10.0,,,
+490,S0491,14,Female,Germany,10th,False,False,False,False,False,False,False,False,False,,,,,,,,
+491,S0492,18,Male,Nigeria,10th,True,False,True,True,False,False,False,True,False,,6.0,8.0,,,,10.0,
+492,S0493,17,Female,Germany,9th,True,False,True,True,False,True,False,False,True,,10.0,6.0,,9.0,,,9.0
+493,S0494,14,Male,Nigeria,10th,True,True,False,False,False,False,True,True,False,9.0,,,,,6.0,10.0,
+494,S0495,18,Male,Brazil,12th,False,False,False,False,False,False,False,False,False,,,,,,,,
+495,S0496,14,Female,Nigeria,9th,True,False,False,False,True,False,False,False,True,,,,8.0,,,,9.0
+496,S0497,16,Male,UK,10th,True,False,False,False,False,False,False,False,True,,,,,,,,6.0
+497,S0498,14,Male,South Korea,9th,True,False,True,False,False,False,True,False,False,,10.0,,,,9.0,,
+498,S0499,14,Male,South Korea,11th,True,False,True,True,True,False,False,False,True,,6.0,7.0,9.0,,,,9.0
+499,S0500,14,Male,UK,10th,True,False,False,False,False,False,False,False,False,,,,,,,,
