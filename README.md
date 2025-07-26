@@ -7,27 +7,34 @@ This project presents an exploratory data analysis (EDA) of global high school s
 The goal of this project is to explore the dataset and answer key questions such as:
 
 ✅ What is the overall familiarity level of students with AI?
+
 ✅ What are the most common purposes for using AI?
+
 ✅ Are there differences by country, gender, or grade level?
+
 ✅ Which AI tools are considered most useful?
+
 ✅ How is the impact of AI perceived by students?
 
 ### ✨ Dataset Overview
-Global survey of high school students
+- Global survey of high school students
 
-Includes demographic information (age, gender, country, grade)
+- Includes demographic information (age, gender, country, grade)
 
-Usage indicators for several popular AI tools
+- Usage indicators for several popular AI tools
 
-Subjective ratings of usefulness for each AI tool
+- Subjective ratings of usefulness for each AI tool
 
 ### 📊 Analysis Highlights
 Exploratory Data Analysis (EDA) with Pandas, Seaborn, and Matplotlib
 
-Visualizations covering:
+**Visualizations covering:**
 ✅ AI usage by gender and country
+
 ✅ Proportion of students using AI tools by grade
+
 ✅ Perceived usefulness of AI tools (e.g., Notion AI, ChatGPT, Grammarly)
+
 ✅ Correlation analysis of numerical features
 
 Insights into patterns of adoption, perceived usefulness, and demographic differences
